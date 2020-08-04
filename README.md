@@ -2,8 +2,9 @@
 I'm Marco Russodivito 
 
 Feel free to contact me:
-[Mail](mailto:russodivito.marco@gmail.com)
-[Discord: RedHitMark#2375](https://discord.com/)
+
+* [Mail](mailto:russodivito.marco@gmail.com)
+* [Discord: RedHitMark#2375](https://discord.com/)
 
 <!--
 Here are some ideas to get you started:
