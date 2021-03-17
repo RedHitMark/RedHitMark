@@ -7,21 +7,20 @@ I'm a very dedicated guy, I like to learn and reach my goals. I love working in 
 
 ## Skills
 * Database Design
-  * Relation  (MySQL, MariaDB e SQLite)
+  * Relationship  (MySQL, MariaDB and SQLite)
   * NoSQL     (MongoDB)
 * Deployment
   * Docker and Docker-compose
   * Kubernets
-  * Github Action & Gitlab pipeline
+  * Github Action and Gitlab pipeline
 * Backend
   * PHP
-  * Node.js (expres.js)
+  * Node.js (express.js)
   * Python (Flask and FastAPI)
 * Fronted
-  * HTML5 + CSS3 +JavaScript ES6
+  * HTML5 + CSS3 + JavaScript ES6
   * jQuery
-  * Vue.js
-  * Angular
+  * Javascript Framework (Vue.js and Angular)
 
 ## My contact info:
 * [Mail](mailto:russodivito.marco@gmail.com)
