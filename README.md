@@ -1,27 +1,41 @@
-# Hi there, I'm __Marco Russodivito__ 👋
-but call me RedHitMark😄
+# Hi there, I'm RedHitMark 👋
 
-## Summary
-I'm graduated in "Computer Science" in July 2020 from the University of Molise and am currently enrolled in the first year of the Master's degree course in "Software Systems Security" at the University of Molise.
-I'm a very dedicated guy, I like to learn and reach my goals. I love working in groups, listening to others to improve myself. I have a great sense of responsibility and duty that leads me to a strong spirit of sacrifice.
+Check out my GitLab profile: <a href="https://gitlab.com/RedHitMark">https://gitlab.com/RedHitMark</a>
+
+## About me
+I am a dedicated and hardworking person with a strong sense of responsibility and duty. I enjoy working in team to learn new things, to achieve goals and obtain excellent results. My passion is creating secure, efficient, and dependable applications for businesses and individuals. Thanks to my cybersecurity education, I recognize the significance of developing and deploying secure architectures applying cybersecurity best practices, I am able to identify and address vulnerabilities in software applications, ensuring the highest security standards.
 
 ## Skills
-* Database Design
-  * Relationship  (MySQL, MariaDB and SQLite)
-  * NoSQL     (MongoDB)
-* Deployment
-  * Docker and Docker-compose
-  * Kubernets
-  * Github Action and Gitlab pipeline
-* Backend
-  * PHP
-  * Node.js (express.js)
-  * Python (Flask and FastAPI)
-* Fronted
-  * HTML5 + CSS3 + JavaScript ES6
-  * jQuery
-  * Javascript Framework (Vue.js and Angular)
+* ⌨️ Programming languages
+    * Java
+    * Python
+    * JavaScript | TypeScript | Node.js
+    * PHP
+* ⚙️ Backend development
+    * Spring Boot
+    * express.js
+    * FastAPI
+* 🖼️ Frontend development
+    * Angular
+    * Vue
+* 📱 Mobile development
+    * Android
+    * Ionic
+* 🗄️ Database
+    * MySQL
+    * MongoDB
+* 📈 Data & ML:
+   * Pandas
+   * Sklearn
+   * Tensorflow
+   * Hugging Face
+* 🚢 DevOps & Deployment 
+    * git
+    * Docker
+    * Kubernates
+    * GitHub Actions
+    * GitLab CI Pipelines
+    * AWS
 
-## My contact info:
-* [Mail](mailto:russodivito.marco@gmail.com)
-* [Discord: RedHitMark#2375](https://discord.com/)
+## Certifications
+* VMware Spring Professional (2V0-72.22)
